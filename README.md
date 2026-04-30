@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -64,8 +63,7 @@
 // ===============================
 // CONFIG
 // ===============================
-const FEATURE_LAYER_URL =
-  "https://r1data.response.epa.gov/epar1gis/rest/services/R1Removals/Riverside_PCB_Viper/FeatureServer/6";
+const FEATURE_LAYER_URL = "https://utility.arcgis.com/usrsvcs/servers/e1f8cd3ce3e644968019ccc951d5b678/rest/services/R1Removals/Riverside_PCB_Viper/FeatureServer";
 
 // ===============================
 // UTILITIES
