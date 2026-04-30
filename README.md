@@ -63,7 +63,7 @@
 // ===============================
 // CONFIG
 // ===============================
-const FEATURE_LAYER_URL = "https://utility.arcgis.com/usrsvcs/servers/e1f8cd3ce3e644968019ccc951d5b678/rest/services/R1Removals/Riverside_PCB_Viper/FeatureServer/6?f=json";
+const FEATURE_LAYER_URL = "https://utility.arcgis.com/usrsvcs/servers/e1f8cd3ce3e644968019ccc951d5b678/rest/services/R1Removals/Riverside_PCB_Viper/FeatureServer/6";
 
 // ===============================
 // UTILITIES
